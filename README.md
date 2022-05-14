@@ -1,0 +1,3 @@
+# TarefasApp
+
+Swift, CoreData
